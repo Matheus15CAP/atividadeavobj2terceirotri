@@ -12,3 +12,10 @@ color: var(--branco);
 font-family: 'Chakra Petch', sans-serif;
 text-align: center;    
 }
+h1 span{
+color: var(--verde);    
+}
+#dias_restantes{
+color: var(--verde);
+font-size: 50px;    
+}
